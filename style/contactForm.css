@@ -20,7 +20,8 @@ h1 {
 }
 
 .lede {
-    font-family: 'Space Mono', monospace;;
+    font-family: 'Space Mono', monospace;
+    ;
     font-style: normal;
     font-weight: 300;
     font-size: 1.9em;
@@ -112,6 +113,10 @@ input {
 
 .navbar-light .navbar-brand {
     border-bottom: none;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light {
+    background-color: white;
 }
 
 .nav-link {
